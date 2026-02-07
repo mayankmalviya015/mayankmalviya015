@@ -1,2 +1,5 @@
 ## Hi there 👋
-![leetcode](https://github.com/mayankmalviya015/mayankmalviya015/blob/f97364913444a6f7c01944ffbe528adff583d127/leetcode.jpeg)(https://leetcode.com/u/mayank_015/)
+<a href="https://leetcode.com/u/mayank_015/">
+  <img src="https://github.com/mayankmalviya015/mayankmalviya015/blob/f840f8f0c1d4ba9683f4889072aa3647ec667901/leetcode.jpeg" width="250"/>
+</a>
+

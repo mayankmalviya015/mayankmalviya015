@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in web development  
 - 📫 How to reach me: You can reach me via **mayankmalviya2620@gmail.com** or connect with me on [LinkedIn](https://www.linkedin.com/in/mayank-malviya-261841399/)  
-- 😄 Pronouns: He/Him  
+- 😄 Pronouns: He/Him.
 - ⚡ Fun fact: I enjoy exploring new technologies and turning ideas into real projects. Recently, I built a **Goodreads clone** to sharpen my development skills.
 
 ---

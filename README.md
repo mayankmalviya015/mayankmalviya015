@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mayankmalviya015&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=mayankmalviya015&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
@@ -14,18 +14,18 @@
 
 - 🎓 **B.Tech in Internet of Things (IoT)** student at **Samrat Ashok Technological Institute (SATI), Vidisha**
 - 💻 Passionate about **Web Development & Software Engineering**
-- 🌐 Currently building applications using the **MERN Stack**
+- 🌐 Currently learning and building with the **MERN Stack**
 - 🧠 Practicing **Data Structures & Algorithms in Java**
-- 🔥 Solving problems on **LeetCode** and continuously improving my problem-solving skills
-- 🚀 Interested in **Full Stack Development, AI-powered applications and modern web technologies**
-- 🛠️ I enjoy turning ideas into **real-world projects**
+- 🔥 Solving problems on **LeetCode**
+- 🤖 Interested in **AI-powered Web Applications**
+- 🚀 I enjoy turning ideas into real-world applications
 - ⚡ Currently focused on becoming a better **Full Stack Developer + Problem Solver**
 
 ---
 
-## 💻 Technologies I Know
+## 💻 Technologies
 
-### 🌐 Frontend Development
+### 🌐 Frontend
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" />
@@ -33,7 +33,7 @@
 
 **HTML • CSS • JavaScript • React.js • Next.js • Tailwind CSS**
 
-### ⚙️ Backend Development
+### ⚙️ Backend
 
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express" />
@@ -47,7 +47,7 @@
   <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
 
-**MongoDB • MySQL**
+**MongoDB • MySQL • Mongoose**
 
 ### ☕ Programming & DSA
 
@@ -59,15 +59,15 @@
 
 ### 🔐 Authentication & Payments
 
-**NextAuth • OAuth • Razorpay Integration**
+**NextAuth • OAuth • Razorpay**
 
-### 🤖 AI & Development
+### 🤖 AI & APIs
 
-**AI Chatbots • AI-powered Web Applications • API Integration**
+**AI Chatbots • AI Integration • API Integration**
 
 ---
 
-## 🛠️ Tools & Platforms
+## 🛠️ Tools
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,postman,vercel" />
@@ -77,35 +77,14 @@
 
 ---
 
-## 📚 Currently Learning
-
-```text
-Java + DSA
-    ↓
-Advanced Problem Solving
-    ↓
-MERN Stack
-    ↓
-Next.js
-    ↓
-Backend & APIs
-    ↓
-AI Integration
-    ↓
-Building Production-Ready Applications 🚀
-```
-
----
-
-## 🧠 LeetCode Journey
+## 🧠 DSA & LeetCode
 
 <p align="center">
-  <a href="https://leetcode.com/u/mayank_015/">
-    <img src="https://img.shields.io/badge/LeetCode-mayank__015-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
-  </a>
+  <img src="https://img.shields.io/badge/DSA-Java-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Problem%20Solving-LeetCode-yellow?style=for-the-badge" />
 </p>
 
-I regularly practice **DSA in Java** and solve problems involving:
+Currently practicing:
 
 - Arrays & Strings
 - HashMap & HashSet
@@ -116,87 +95,53 @@ I regularly practice **DSA in Java** and solve problems involving:
 - Searching & Sorting
 - Greedy Algorithms
 - Dynamic Programming
-- Problem Solving & Optimization
+- Optimization & Problem Solving
 
 ---
 
-## 🚀 Featured Projects
-
-### 🐦 Twitter/X Clone
-
-A social media application inspired by Twitter/X.
-
-**Tech:** HTML • CSS • JavaScript • Tailwind CSS
-
----
-
-### 📚 Goodreads Clone
-
-A book discovery and reading-platform inspired project built to improve my frontend and web-development skills.
-
-**Tech:** React / JavaScript • CSS • APIs
-
----
-
-### ☕ Get Me A Chai
-
-A crowdfunding platform where supporters can contribute money to creators.
-
-**Tech:** Next.js • React • MongoDB • Mongoose • NextAuth • Razorpay
-
-**Features:**
-- 🔐 Authentication
-- 👤 User Dashboard
-- 💳 Razorpay Payment Integration
-- 🗄️ MongoDB Database
-- 🔑 OAuth Login
-- 💰 Creator Support System
-
----
-
-### 🛒 Local E-Commerce Platform
-
-Currently working on an e-commerce platform for a local clothing shop where customers can browse products and place orders online.
-
-**Planned Stack:**
-
-`React` `Node.js` `Express.js` `MongoDB` `Cloudinary`
-
-**Features:**
-- 🛍️ Product listing
-- 🖼️ Product images
-- 💰 Product pricing
-- 👨‍💼 Admin panel
-- 📦 Order management
-- 📱 Customer-friendly UI
-
----
-
-## 🎯 My Development Journey
+## 📚 Currently Learning
 
 ```text
 HTML + CSS
-     ↓
+      ↓
 JavaScript
-     ↓
+      ↓
 Tailwind CSS
-     ↓
+      ↓
 React.js
-     ↓
+      ↓
 Node.js + Express.js
-     ↓
+      ↓
 MongoDB
-     ↓
+      ↓
 MERN Stack
-     ↓
+      ↓
 Next.js + NextAuth
-     ↓
+      ↓
 Razorpay + APIs
-     ↓
+      ↓
 AI Integration 🤖
-     ↓
+      ↓
 Full Stack Developer 🚀
 ```
+
+---
+
+## 🎯 Main Focus
+
+<p align="center">
+  <img src="https://github.com/mayankmalviya015/mayankmalviya015/blob/2247286b0b6051dc00f67855e1bf79d8196b759f/upload%20image%20and%20pdf/photo.jpeg" width="350" />
+</p>
+
+### My Current Goals
+
+- 🎯 Become a strong **Full Stack Developer**
+- 🧠 Master **DSA & Problem Solving**
+- 🚀 Build production-level applications
+- 🤖 Integrate **AI into Web Applications**
+- 💼 Gain real-world development experience
+- 🌎 Contribute to **Open Source**
+- 📈 Keep learning and improving every day
 
 ---
 
@@ -204,6 +149,7 @@ Full Stack Developer 🚀
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mayankmalviya015&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mayankmalviya015&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
@@ -213,34 +159,16 @@ Full Stack Developer 🚀
 
 ---
 
-## 🏆 My Goals
-
-- 🎯 Become a strong **Full Stack Developer**
-- 🧠 Master **DSA & Problem Solving**
-- 🚀 Build production-level applications
-- 🤖 Learn and integrate **AI into Web Applications**
-- 💼 Get a good **Software Development Internship**
-- 🌎 Contribute to **Open Source**
-- 📈 Keep learning and improving every day
-
----
-
 ## 🌐 Connect With Me
 
 <p align="center">
-
-<a href="https://www.linkedin.com/in/mayank-malviya-261841399/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-</a>
-
-<a href="https://leetcode.com/u/mayank_015/">
-  <img src="https://img.shields.io/badge/LeetCode-Follow-orange?style=for-the-badge&logo=leetcode" />
-</a>
-
-<a href="mailto:mayankmalviya2620@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
-</a>
-
+  <a href="https://www.linkedin.com/in/mayank-malviya-261841399/">
+    <img src="https://github.com/mayankmalviya015/mayankmalviya015/blob/b94b7a68cd8e386bbb1dc9967c08752a3d22c414/upload%20image%20and%20pdf/linkedin.jpeg" width="70" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://leetcode.com/u/mayank_015/">
+    <img src="https://github.com/mayankmalviya015/mayankmalviya015/blob/b94b7a68cd8e386bbb1dc9967c08752a3d22c414/upload%20image%20and%20pdf/leetcode.jpeg" width="70" />
+  </a>
 </p>
 
 ---
@@ -248,16 +176,16 @@ Full Stack Developer 🚀
 ## 📄 Resume
 
 <p align="center">
-  <a href="https://github.com/mayankmalviya015/mayankmalviya015/blob/2247286b0b6051dc00f67855e1bf79d8196b759f/upload%20image%20and%20pdf/Mayank_Malviya_Final_Resume.pdf">
-    <img src="https://github.com/mayankmalviya015/mayankmalviya015/blob/2247286b0b6051dc00f67855e1bf79d8196b759f/pdf%20photo.jpeg" width="180"/>
-  </a>
+  <img src="https://github.com/mayankmalviya015/mayankmalviya015/blob/2247286b0b6051dc00f67855e1bf79d8196b759f/upload%20image%20and%20pdf/pdf%20photo.jpeg" width="120" />
 </p>
 
 ---
 
 ## ⚡ Fun Fact
 
-> **I don't just learn technologies — I try to build something with them. 🚀**
+<p align="center">
+  <b>I don't just learn technologies — I try to build something with them. 🚀</b>
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=100&section=footer" />

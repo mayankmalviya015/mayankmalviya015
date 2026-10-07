@@ -4,9 +4,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer+%7C+Aspiring+Software+Engineer;B.Tech+IoT+Student+%40+SATI+Vidisha;Java+%7C+DSA+%7C+MERN+Stack;Building+Ideas+into+Real+Projects+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mayankmalviya015&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
 
 ---
 
